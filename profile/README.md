@@ -11,4 +11,4 @@ Want to get information or updates on our projects, straight from the source? Yo
 
 [![Bluesky](https://github.com/TheEggCenter/.github/blob/main/assets/bsky.png?raw=true)](https://bsky.app/profile/theeggcenter.bsky.social)
 [![Discord](https://github.com/TheEggCenter/.github/blob/main/assets/disc.png?raw=true)](https://discord.gg/A2f2A7mBUF)
-[![Website](https://github.com/TheEggCenter/.github/blob/main/assets/site.png?raw=true)](https://github.com/TheEggCenter)
+[![Website](https://github.com/TheEggCenter/.github/blob/main/assets/site.png?raw=true)](https://theeggcenter.github.io/site/)
