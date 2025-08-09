@@ -9,6 +9,7 @@ Currently, our only project is Egg Land, an incremental game! It's still in beta
 
 Want to get information or updates on our projects, straight from the source? You can find us on these platforms!
 
-[![Bluesky](https://github.com/TheEggCenter/.github/blob/main/assets/bsky.png?raw=true)](https://bsky.app/profile/theeggcenter.bsky.social)
-[![Discord](https://github.com/TheEggCenter/.github/blob/main/assets/disc.png?raw=true)](https://discord.gg/A2f2A7mBUF)
 [![Website](https://github.com/TheEggCenter/.github/blob/main/assets/site.png?raw=true)](https://theeggcenter.github.io/site/)
+[![Discord](https://github.com/TheEggCenter/.github/blob/main/assets/disc.png?raw=true)](https://discord.gg/A2f2A7mBUF)
+[![Bluesky](https://github.com/TheEggCenter/.github/blob/main/assets/bsky.png?raw=true)](https://bsky.app/profile/theeggcenter.bsky.social)
+[![YouTube](https://github.com/TheEggCenter/.github/blob/main/assets/yt.png?raw=true)](https://www.youtube.com/@theeggcenter)
